@@ -1,0 +1,410 @@
+Food Product,Ingredient,Allergens
+Almond Cookies,"Almonds, Sugar, Butter, Flour","Almonds, Wheat, Dairy"
+Almond Cookies,"Almonds, Sugar, Butter, Flour","Almonds, Wheat, Dairy"
+Chicken Noodle Soup,"Chicken broth, Salt","Chicken, Wheat, Celery"
+Chicken Noodle Soup,"Chicken broth, Salt","Chicken, Wheat, Celery"
+Cheddar Cheese,"Cheese, Salt",Dairy
+Ranch Dressing,"Buttermilk, Sugar, Vegetable oil, Garlic, herbs",Dairy
+Caramel Popcorn,"Popcorn, Sugar, Butter, Salt",Dairy
+Caesar Salad,"Romaine lettuce, Olive oil, Parmesan cheese",Dairy
+Caesar Wrap,"Grilled chicken, Caesar dressing, Lettuce, Parmesan cheese",Dairy
+Strawberry Smoothie,"Strawberries, Honey, Yogurt (milk, cultures)",Dairy
+Cheese Pizza,"Cheese, Tomato sauce",Dairy
+Margherita Pizza,"Cheese, Tomato sauce, basil",Dairy
+Mashed Potatoes,"Potatoes, Butter, Salt, Pepper",Dairy
+Greek Yogurt,"Yogurt (milk, cultures)",Dairy
+Caesar Salad Wrap,"Grilled chicken, Caesar dressing, Lettuce, Parmesan cheese",Dairy
+Caprese Salad,"Tomatoes, Olive oil, Mozzarella cheese, basil",Dairy
+Berry Smoothie,"Mixed berries, Sugar, Yogurt (milk, cultures)",Dairy
+Caesar Salad,"Romaine lettuce, Olive oil, Caesar dressing",Dairy
+Berry Parfait,"Mixed berries, Sugar, Yogurt (milk, cultures), Granola",Dairy
+Chicken Alfredo,"Chicken, Butter, Cream, Parmesan cheese",Dairy
+Pesto Pizza,"Pesto sauce, Mozzarella cheese, basil",Dairy
+Beef Stroganoff,"Beef, Sour cream, Mushroom, onion",Dairy
+Banana Smoothie,"Bananas, Honey, Yogurt (milk, cultures)",Dairy
+Watermelon Salad,"Watermelon, Feta cheese, mint",Dairy
+Chicken Parmesan,"Chicken, Bread crumbs, Parmesan cheese, Marinara sauce",Dairy
+Mango Lassi,"Mango, Sugar, Yogurt (milk, cultures), Cardamom",Dairy
+Greek Salad,"Cucumbers, Olive oil, Feta cheese, olives",Dairy
+Butternut Squash Soup,"Butternut squash, Butter, Vegetable broth",Dairy
+Margherita Pasta,"Pasta, Olive oil, Fresh tomatoes, mozzarella",Dairy
+Greek Gyro Wrap,"Lamb, Tzatziki sauce, tomatoes, onions",Dairy
+Spinach and Feta Stuffed Chicken,"Chicken, Olive oil, Spinach, feta cheese",Dairy
+Chicken Fettuccine Alfredo,"Chicken, Butter, Cream, Parmesan cheese",Dairy
+Caprese Sandwich,"Tomatoes, Olive oil, Mozzarella cheese, basil",Dairy
+Mushroom Risotto,"Mushrooms, Butter, Arborio rice, Parmesan cheese",Dairy
+Greek Yogurt Parfait,"Greek yogurt, Honey, Granola, mixed berries",Dairy
+Eggplant Parmesan,"Eggplant, Olive oil, Marinara sauce, cheese",Dairy
+Banana Pudding,"Bananas, Sugar, Milk, Vanilla pudding mix, cookies",Dairy
+Margherita Pizza,"Pizza dough, Olive oil, Mozzarella cheese, tomatoes, basil",Dairy
+Chicken Caesar Wrap,"Chicken, Caesar dressing, Romaine lettuce, Parmesan cheese",Dairy
+Greek Spanakopita,"Spinach, Olive oil, Feta cheese, phyllo dough",Dairy
+Mushroom Soup,"Mushrooms, Butter, Vegetable broth",Dairy
+Greek Yogurt,"Yogurt (milk, cultures), Honey",Dairy
+Spinach Artichoke Dip,"Spinach, Cream cheese, sour cream, Parmesan cheese, garlic",Dairy
+Chocolate Mousse,"Chocolate, Sugar, Heavy cream, Vanilla extract",Dairy
+Stuffed Portobello Mushrooms,"Portobello mushrooms, Cheese, breadcrumbs",Dairy
+Caprese Salad,"Tomatoes, Olive oil, Mozzarella cheese, basil",Dairy
+Tandoori Chicken,"Chicken, Yogurt, Tandoori spices",Dairy
+Beef Stroganoff,"Beef, Sour cream, Mushrooms, onions",Dairy
+Strawberry Smoothie,"Strawberries, Sugar, Yogurt, Milk",Dairy
+Baked Garlic Parmesan Chicken,"Chicken, Butter, Parmesan cheese, garlic",Dairy
+Mushroom and Goat Cheese Flatbread,"Mushrooms, Olive oil, Goat cheese, herbs",Dairy
+Margherita Pasta,"Pasta, Olive oil, Mozzarella cheese, tomatoes, basil",Dairy
+Pumpkin Soup,"Pumpkin, Butter, Nutmeg, cream",Dairy
+Butternut Squash Soup,"Butternut squash, Butter, Nutmeg, cream",Dairy
+Caprese Skewers,"Tomatoes, Olive oil, Mozzarella cheese, basil",Dairy
+Chicken Piccata,"Chicken, Butter, Lemon, capers",Dairy
+Berry Parfait,"Berries, Honey, Yogurt, Granola",Dairy
+Stuffed Mushrooms,"Mushrooms, Cheese, breadcrumbs",Dairy
+Spinach Artichoke Dip,"Spinach, Cream cheese, sour cream, Parmesan cheese, garlic",Dairy
+Chocolate Mousse,"Chocolate, Sugar, Heavy cream, Vanilla extract",Dairy
+Stuffed Portobello Mushrooms,"Portobello mushrooms, Cheese, breadcrumbs",Dairy
+Caprese Salad,"Tomatoes, Olive oil, Mozzarella cheese, basil",Dairy
+Tandoori Chicken,"Chicken, Yogurt, Tandoori spices",Dairy
+Beef Stroganoff,"Beef, Sour cream, Mushrooms, onions",Dairy
+Strawberry Smoothie,"Strawberries, Sugar, Yogurt, Milk",Dairy
+Baked Garlic Parmesan Chicken,"Chicken, Butter, Parmesan cheese, garlic",Dairy
+Butter Chicken,"Chicken, Sugar, Butter, Tomato sauce, cream",Dairy
+Palak Paneer,"Spinach, Ghee, Paneer, spices",Dairy
+Tandoori Chicken,"Chicken, Yogurt, Tandoori spices",Dairy
+Rogan Josh,"Lamb, Ghee, Yogurt, Kashmiri red chili",Dairy
+Paneer Tikka,"Paneer, Oil, Tikka masala, spices",Dairy
+Dal Makhani,"Lentils, Ghee, Cream, spices",Dairy
+Malai Kofta,"Cottage cheese, Ghee, Creamy tomato sauce",Dairy
+Chicken Tikka Masala,"Chicken, Sugar, Ghee, Tomato sauce, cream",Dairy
+Gulab Jamun,"Milk solids, Sugar, Ghee, Cardamom syrup",Dairy
+Chicken Korma,"Chicken, Ghee, Creamy sauce, spices",Dairy
+Malai Chicken Tikka,"Chicken, Cream, Spices",Dairy
+Dahi Vada,"Lentil dumplings, Yogurt, Tamarind chutney, spices",Dairy
+Chicken Malai Tikka,"Chicken, Cream, Spices",Dairy
+Matar Paneer,"Paneer, Ghee, Peas, spices",Dairy
+Rasgulla,"Paneer, Sugar, Rose water, syrup",Dairy
+Rabri,"Milk, Sugar, Ghee, Cardamom, nuts",Dairy
+Chicken Korma,"Chicken, Ghee, Creamy sauce, spices",Dairy
+Gulab Jamun,"Milk solids, Sugar, Ghee, Cardamom syrup",Dairy
+Rogan Josh,"Lamb, Ghee, Yogurt, Kashmiri red chili",Dairy
+Kheer,"Rice, Sugar, Ghee, Cardamom, nuts",Dairy
+Rasmalai,"Paneer, Sugar, Milk, Ghee, Cardamom, nuts",Dairy
+Chicken Caesar Salad,"Chicken breast, Olive oil, Parmesan cheese","Dairy, Anchovies"
+Chocolate Mousse,"Chocolate, Sugar, Heavy cream, Vanilla extract","Dairy, Cocoa"
+Quiche Lorraine,"Bacon, Heavy cream, Cheese, eggs","Dairy, Eggs"
+Chicken Piccata,"Chicken, Butter, Lemon, capers","Dairy, Fish"
+Chicken Tikka Masala,"Chicken, Ghee, Tikka masala sauce","Dairy, Ghee"
+Sweet Potato Casserole,"Sweet potatoes, Brown sugar, Butter, Cinnamon, nutmeg","Dairy, Nuts"
+Baked Brie,"Brie cheese, Herbs, nuts","Dairy, Nuts"
+French Onion Soup,"Onions, Butter, Beef broth, cheese, bread","Dairy, Wheat"
+Greek Gyro,"Lamb/Chicken, Tzatziki sauce, vegetables","Dairy, Wheat"
+French Onion Soup,"Onions, Butter, Beef broth, cheese, bread","Dairy, Wheat"
+Omelette,"Eggs, Butter, Salt, pepper",Eggs
+Egg Salad,"Eggs, Mayonnaise, Celery, onion",Eggs
+Egg Salad,"Eggs, Mayonnaise, Celery, onion",Eggs
+Quiche,"Eggs, Cheese, Vegetables","Eggs, Dairy"
+Egg Salad Sandwich,"Eggs, Mayonnaise, Celery, mustard","Eggs, Mustard"
+Egg Fried Rice,"Eggs, Sesame oil, Soy sauce","Eggs, Soybeans"
+Fish Sticks,"Fish fillets, Vegetable oil, Salt",Fish
+Fish Sticks,"Fish fillets, Vegetable oil, Salt",Fish
+Baked Salmon,"Salmon fillet, Olive oil, Lemon, herbs",Fish
+Teriyaki Salmon,"Salmon, Vegetable oil, Teriyaki sauce",Fish
+Baked Salmon,"Salmon, Olive oil, Lemon, herbs",Fish
+Lemon Dill Salmon,"Salmon, Olive oil, Lemon, dill",Fish
+Baked Salmon,"Salmon, Olive oil, Lemon, herbs",Fish
+Malabar Fish Curry,"Fish, Coconut oil, Tamarind, spices","Fish, Coconut"
+Baked Cod,"Cod, Butter, Lemon, herbs","Fish, Dairy"
+Baked Cod,"Cod, Butter, Lemon, herbs","Fish, Dairy"
+Tuna Sandwich,"Tuna, Mayonnaise, Salt, Pepper","Fish, Eggs"
+Tuna Salad,"Tuna, Mayonnaise, Celery, onion","Fish, Eggs"
+Sushi,"Fish (salmon, tuna), Rice vinegar, Sesame oil, Soy sauce","Fish, Soybeans"
+Teriyaki Salmon,"Salmon fillet, Sugar, Soy sauce, Ginger, garlic","Fish, Soybeans"
+Sushi Bowl,"Sushi rice, Soy sauce, Raw fish, vegetables","Fish, Soybeans"
+Honey Soy Glazed Salmon,"Salmon, Honey, Soy sauce, Garlic, ginger","Fish, Soybeans"
+Sushi Bowl,"Sushi rice, Soy sauce, Raw fish, vegetables","Fish, Soybeans"
+Honey Soy Glazed Salmon,"Salmon, Honey, Soy sauce, Garlic, ginger","Fish, Soybeans"
+Milk Chocolate,"Sugar, Cocoa butter, Milk powder, Vanilla extract",Milk
+Milk Chocolate,"Sugar, Cocoa butter, Milk powder, Vanilla extract",Milk
+Vanilla Ice Cream,"Milk, Sugar, Cream, Vanilla extract",Milk
+Vanilla Yogurt,"Yogurt (milk, cultures), Sugar, Vanilla extract",Milk
+Strawberry Yogurt,"Yogurt (milk, cultures), Sugar, Pectin","Milk, Strawberries"
+Strawberry Yogurt,"Yogurt (milk, cultures), Sugar, Pectin","Milk, Strawberries"
+Tomato Soup,"Tomatoes, Salt, Sugar",None
+Apple,Apples,None
+Tomato Soup,"Tomatoes, Salt, Sugar",None
+Apple,Apples,None
+Orange Juice,"Oranges, Sugar",None
+Greek Salad,"Cucumber, Olive oil, Lemon juice",None
+Spaghetti Bolognese,"Ground beef, Sugar, Olive oil, Tomato sauce",None
+Honey Mustard Chicken,"Chicken breast, Honey, Mustard, Vegetable oil",None
+BBQ Ribs,"Pork ribs, Brown sugar, Vegetable oil, BBQ sauce",None
+Quinoa Salad,"Quinoa, Olive oil, Lemon juice, herbs",None
+Vegetable Stir-Fry,"Mixed vegetables, Vegetable oil, Soy sauce",None
+Beef Burger,"Ground beef, Vegetable oil, Salt, Pepper",None
+French Fries,"Potatoes, Vegetable oil, Salt",None
+Lemonade,"Lemon juice, Sugar, Water",None
+Gazpacho,"Tomatoes, Olive oil, Garlic, herbs",None
+Beef Tacos,"Ground beef, Vegetable oil, Taco seasoning",None
+Lentil Soup,"Lentils, Olive oil, Vegetables",None
+Chicken Curry,"Chicken, Vegetable oil, Curry powder",None
+Ratatouille,"Eggplant, Olive oil, Tomatoes",None
+Pesto Pasta,"Pasta, Olive oil, Basil, garlic",None
+Chicken Stir-Fry,"Chicken, Vegetable oil, Soy sauce",None
+Veggie Burger,"Mixed vegetables, Vegetable oil, Seasonings",None
+Vegetable Soup,"Mixed vegetables, Olive oil, Seasonings",None
+Spinach Salad,"Spinach, Olive oil, Balsamic vinegar",None
+Chicken Enchiladas,"Chicken, Vegetable oil, Enchilada sauce",None
+Minestrone Soup,"Vegetables, Olive oil, Tomato broth",None
+Salsa,"Tomatoes, Onion, cilantro",None
+Lemon Garlic Chicken,"Chicken, Olive oil, Lemon juice, garlic",None
+Pancetta Pasta,"Pasta, Pancetta, Garlic, herbs",None
+Chicken Teriyaki,"Chicken, Vegetable oil, Teriyaki sauce",None
+Spinach Stuffed Chicken,"Chicken, Olive oil, Spinach, garlic",None
+Coconut Curry,"Chicken, Coconut milk, Curry paste",None
+Apple Cider,"Apples, Sugar, Cinnamon",None
+Ratatouille,"Eggplant, Olive oil, Tomatoes, zucchini",None
+Avocado Toast,"Avocado, Olive oil, Salt, pepper",None
+Beef Stir-Fry,"Beef, Vegetable oil, Soy sauce",None
+Black Bean Soup,"Black beans, Olive oil, Vegetables",None
+Beef Tacos,"Ground beef, Vegetable oil, Taco seasoning",None
+Cucumber Salad,"Cucumber, Olive oil, Lemon juice, dill",None
+Fruit Salad,"Mixed fruits, Sugar, Lemon juice",None
+Sausage Pizza,"Sausage, Mozzarella cheese",None
+Chicken Fajitas,"Chicken, Vegetable oil, Fajita seasoning",None
+Mango Salsa,"Mango, Red onion, lime",None
+Lentil Curry,"Lentils, Coconut milk, Curry powder",None
+Green Smoothie,"Spinach, Honey, Avocado, Almond milk",None
+Stuffed Bell Peppers,"Bell peppers, Olive oil, Ground meat, rice",None
+Beef and Broccoli,"Beef, Vegetable oil, Soy sauce",None
+Cabbage Rolls,"Cabbage, Olive oil, Ground meat, rice",None
+Caramel Apple,"Apples, Caramel",None
+Sweet Potato Fries,"Sweet potatoes, Vegetable oil, Salt, paprika",None
+Beef Chili,"Ground beef, Chili powder",None
+Pesto Chicken,"Chicken, Pesto sauce",None
+Beef Burritos,"Ground beef, Vegetable oil, Taco seasoning",None
+Chicken Shawarma,"Chicken, Olive oil, Shawarma spices",None
+Stuffed Mushrooms,"Mushrooms, Garlic, herbs",None
+Zucchini Noodles,"Zucchini, Olive oil, Garlic, herbs",None
+Sweet and Sour Chicken,"Chicken, Sugar, Vegetable oil, Pineapple, bell peppers",None
+Beef Kabobs,"Beef, Olive oil, Seasonings",None
+Tomato Bruschetta,"Tomatoes, Olive oil, Garlic, basil",None
+Quinoa Stuffed Peppers,"Quinoa, Olive oil, Vegetables, spices",None
+Veggie Omelette,"Mixed vegetables, Olive oil, Salt, pepper",None
+Ratatouille,"Vegetables, Olive oil, Herbs, garlic",None
+Beef Tacos,"Beef, Vegetable oil, Taco seasoning",None
+Quinoa Salad,"Quinoa, Olive oil, Lemon juice, vegetables",None
+Vegetable Stir-Fry,"Mixed vegetables, Vegetable oil, Soy sauce",None
+Buffalo Wings,"Chicken wings, Vegetable oil, Buffalo sauce",None
+Lentil Soup,"Lentils, Olive oil, Vegetables",None
+Stuffed Cabbage Rolls,"Cabbage, Olive oil, Ground meat, rice",None
+Orange Chicken,"Chicken, Vegetable oil, Orange sauce",None
+Honey Mustard Chicken,"Chicken, Honey, Olive oil, Mustard, herbs",None
+Lentil Salad,"Lentils, Olive oil, Lemon juice, vegetables",None
+Cilantro Lime Chicken,"Chicken, Olive oil, Cilantro, lime",None
+Ratatouille Pizza,"Pizza dough, Olive oil, Ratatouille vegetables",None
+Chicken Curry,"Chicken, Coconut milk, Curry powder",None
+Pesto Pasta Salad,"Pasta, Pesto sauce, Tomatoes, vegetables",None
+Beef and Mushroom Stir-Fry,"Beef, Vegetable oil, Soy sauce",None
+Tofu Curry,"Tofu, Coconut milk, Curry paste",None
+Stuffed Bell Peppers,"Bell peppers, Olive oil, Ground meat, rice",None
+Stuffed Bell Peppers,"Bell peppers, Olive oil, Ground meat, rice",None
+Greek Moussaka,"Eggplant, Olive oil, Ground meat, potatoes",None
+Brussels Sprouts,"Brussels sprouts, Olive oil, Balsamic glaze",None
+Baked Chicken Wings,"Chicken wings, Olive oil, Seasonings",None
+Mango Coconut Popsicles,"Mango, Sugar, Coconut milk",None
+Ratatouille Pasta,"Pasta, Olive oil, Ratatouille vegetables",None
+Chicken Noodle Soup,"Chicken, Vegetable oil, Noodles, vegetables",None
+Mango Salsa,"Mango, Lime juice, cilantro",None
+Spinach Salad,"Spinach, Olive oil, Balsamic vinaigrette",None
+Caramelized Onions,"Onions, Sugar, Butter",None
+Beef Stir-Fry,"Beef, Vegetable oil, Soy sauce",None
+Strawberry Spinach Salad,"Spinach, Strawberries, vinaigrette",None
+Ratatouille Tart,"Vegetables, Olive oil, Puff pastry, herbs",None
+Honey Glazed Carrots,"Carrots, Honey, Butter",None
+Cucumber Salad,"Cucumbers, Olive oil, Vinegar, herbs",None
+Greek Lemon Potatoes,"Potatoes, Olive oil, Lemon juice, herbs",None
+Stuffed Tomatoes,"Tomatoes, Herbs, breadcrumbs",None
+Avocado Toast,"Avocado, Olive oil, Salt, pepper",None
+Lemon Pepper Chicken,"Chicken, Olive oil, Lemon pepper seasoning",None
+Chicken Shawarma,"Chicken, Olive oil, Shawarma seasoning",None
+Lemon Herb Roasted Chicken,"Chicken, Olive oil, Lemon, herbs",None
+Greek Lemon Chicken,"Chicken, Olive oil, Lemon juice, herbs",None
+Roasted Brussels Sprouts,"Brussels sprouts, Olive oil, Balsamic glaze",None
+Beef Burritos,"Beef, Vegetable oil, Burrito seasoning",None
+Raspberry Spinach Salad,"Spinach, Raspberries, vinaigrette",None
+Chicken and Rice Soup,"Chicken, Vegetable oil, Rice, vegetables",None
+Chicken Fajitas,"Chicken, Vegetable oil, Fajita seasoning",None
+Vegetable Curry,"Mixed vegetables, Coconut milk, Curry paste",None
+Ratatouille,"Vegetables, Olive oil, Herbs",None
+Pesto Pasta Salad,"Pasta, Pesto sauce, Tomatoes, vegetables",None
+Beef and Mushroom Stir-Fry,"Beef, Vegetable oil, Soy sauce",None
+Tofu Curry,"Tofu, Coconut milk, Curry paste",None
+Stuffed Bell Peppers,"Bell peppers, Olive oil, Ground meat, rice",None
+Greek Moussaka,"Eggplant, Olive oil, Ground meat, potatoes",None
+Brussels Sprouts,"Brussels sprouts, Olive oil, Balsamic glaze",None
+Baked Chicken Wings,"Chicken wings, Olive oil, Seasonings",None
+Mango Coconut Popsicles,"Mango, Sugar, Coconut milk",None
+Ratatouille Pasta,"Pasta, Olive oil, Ratatouille vegetables",None
+Chicken Noodle Soup,"Chicken, Vegetable oil, Noodles, vegetables",None
+Mango Salsa,"Mango, Lime juice, cilantro",None
+Spinach Salad,"Spinach, Olive oil, Balsamic vinaigrette",None
+Caramelized Onions,"Onions, Sugar, Butter",None
+Beef Stir-Fry,"Beef, Vegetable oil, Soy sauce",None
+Strawberry Spinach Salad,"Spinach, Strawberries, vinaigrette",None
+Ratatouille Tart,"Vegetables, Olive oil, Puff pastry, herbs",None
+Honey Glazed Carrots,"Carrots, Honey, Butter",None
+Cucumber Salad,"Cucumbers, Olive oil, Vinegar, herbs",None
+Greek Lemon Potatoes,"Potatoes, Olive oil, Lemon juice, herbs",None
+Stuffed Tomatoes,"Tomatoes, Herbs, breadcrumbs",None
+Biryani,"Rice, Ghee, Biryani masala, spices",None
+Chole Bhature,"Chickpeas, Sugar, Ghee, Chole masala, spices",None
+Masala Dosa,"Rice, Oil, Potato masala, spices",None
+Samosa,"Potatoes, Ghee, Spices",None
+Aloo Gobi,"Potatoes, Oil, Cauliflower, spices",None
+Chicken Biryani,"Chicken, Ghee, Basmati rice, spices",None
+Vada Pav,"Potato, Oil, Pav bun, chutney",None
+Pani Puri,"Semolina, Tamarind, Spiced water, chutney",None
+Rajma Chawal,"Kidney beans, Ghee, Spices",None
+Chicken Curry,"Chicken, Oil, Curry spices",None
+Vegetable Biryani,"Mixed vegetables, Ghee, Basmati rice, spices",None
+Chana Masala,"Chickpeas, Oil, Masala spices",None
+Paniyaram,"Fermented batter, Oil, Mustard seeds, curry leaves",None
+Chicken Biryani,"Chicken, Ghee, Basmati rice, spices",None
+Pav Bhaji,"Mixed vegetables, Butter, Pav bread, spices",None
+Hyderabadi Biryani,"Basmati rice, Ghee, Meat/vegetables, spices",None
+Chicken Curry,"Chicken, Oil, Curry spices",None
+Dosa,"Rice, Oil, Potato masala, chutney",None
+Chole Kulche,"Chickpeas, Ghee, Kulcha bread, spices",None
+Gobi Manchurian,"Cauliflower, Oil, Manchurian sauce",None
+Mutton Biryani,"Mutton, Ghee, Basmati rice, spices",None
+Oatmeal,"Oats, Sugar, Milk, Cinnamon","Oats, Dairy"
+Chicken Satay,"Chicken, Peanut butter, Soy sauce",Peanuts
+Peanut Butter,"Peanuts, Sugar, Vegetable oil, Salt",Peanuts
+Peanut Butter,"Peanuts, Sugar, Vegetable oil, Salt",Peanuts
+Chicken Satay,"Chicken, Peanut oil, Satay sauce, spices",Peanuts
+Chicken Satay,"Chicken, Peanut oil, Satay sauce, spices",Peanuts
+Pesto Chicken,"Chicken, Olive oil, Pesto sauce","Pine nuts, Dairy"
+Zucchini Noodles with Pesto,"Zucchini, Olive oil, Pesto sauce","Pine nuts, Dairy"
+Pesto Chicken,"Chicken, Olive oil, Pesto sauce","Pine nuts, Dairy"
+Rice Pudding,"Rice, Sugar, Milk, Cinnamon, raisins","Rice, Dairy"
+Shrimp Scampi,"Shrimp, Butter, Garlic, lemon",Shellfish
+Shrimp Scampi Pasta,"Shrimp, Butter, Garlic, lemon",Shellfish
+Garlic Shrimp,"Shrimp, Olive oil, Garlic",Shellfish
+Lemon Garlic Shrimp,"Shrimp, Olive oil, Lemon juice, garlic",Shellfish
+Lemon Garlic Shrimp,"Shrimp, Olive oil, Lemon juice, garlic",Shellfish
+Prawn Biryani,"Prawns, Ghee, Basmati rice, spices",Shellfish
+Lobster Bisque,"Lobster, Butter, Cream, brandy","Shellfish, Dairy"
+Caesar Shrimp Skewers,"Shrimp, Olive oil, Caesar dressing","Shellfish, Dairy"
+Shrimp Scampi,"Shrimp, Butter, Garlic, lemon","Shellfish, Dairy"
+Lobster Bisque,"Lobster, Butter, Cream, brandy","Shellfish, Dairy"
+Caesar Shrimp Skewers,"Shrimp, Olive oil, Caesar dressing","Shellfish, Dairy"
+Prawn Curry,"Prawns, Coconut milk, Curry spices","Shellfish, Dairy"
+Lobster Roll,"Lobster, Mayonnaise, Celery, lemon juice","Shellfish, Eggs"
+Lobster Roll,"Lobster, Mayonnaise, Celery, lemon juice","Shellfish, Eggs"
+Bacon-Wrapped Shrimp,"Shrimp, Bacon, Seasonings","Shellfish, Pork"
+Shrimp Fried Rice,"Shrimp, Vegetable oil, Soy sauce","Shellfish, Soybeans"
+Soy Milk,"Soybeans, Sugar, Emulsifiers",Soybeans
+Soy Milk,"Soybeans, Sugar, Emulsifiers",Soybeans
+Tofu Stir-Fry,"Tofu, Vegetable oil, Soy sauce",Soybeans
+Miso Soup,"Miso paste, Tofu, seaweed",Soybeans
+Tofu Scramble,"Tofu, Vegetable oil, Turmeric, spices",Soybeans
+Chicken Teriyaki,"Chicken, Soy sauce, Honey, ginger",Soybeans
+Tofu Stir-Fry,"Tofu, Vegetable oil, Soy sauce",Soybeans
+Teriyaki Beef,"Beef, Soy sauce, Teriyaki sauce, vegetables",Soybeans
+Sushi Rolls,"Sushi rice, Soy sauce, Nori (seaweed), fish","Soybeans, Fish"
+Wheat Bread,"Wheat flour, Salt",Wheat
+Wheat Bread,"Wheat flour, Salt",Wheat
+Zucchini Bread,"Zucchini, Sugar, Vegetable oil, Flour",Wheat
+Chicken Noodle Casserole,"Chicken, Butter, Noodles, vegetables",Wheat
+Onion Rings,"Onions, Vegetable oil, Flour",Wheat
+Chicken Pot Pie,"Chicken, Butter, Vegetables, pastry",Wheat
+Grilled Portobello Mushroom Burger,"Portobello mushrooms, Burger bun, vegetables",Wheat
+Aloo Paratha,"Potatoes, Ghee, Wheat flour, spices",Wheat
+Oatmeal Raisin Cookies,"Oats, Sugar, Butter, Flour","Wheat, Dairy"
+Oatmeal Raisin Cookies,"Oats, Sugar, Butter, Flour","Wheat, Dairy"
+Pancakes,"Flour, Sugar, Butter, Baking powder","Wheat, Dairy"
+Carrot Cake,"Carrots, Sugar, Vegetable oil, Cinnamon","Wheat, Dairy"
+Blueberry Muffins,"Blueberries, Sugar, Butter, Flour","Wheat, Dairy"
+Chocolate Chip Cookies,"Flour, Sugar, Butter, Chocolate chips","Wheat, Dairy"
+Mushroom Risotto,"Arborio rice, Butter, Mushroom","Wheat, Dairy"
+Cinnamon Rolls,"Flour, Sugar, Butter, Cinnamon","Wheat, Dairy"
+Pineapple Upside-Down Cake,"Pineapple, Sugar, Butter, Flour","Wheat, Dairy"
+Apple Pie,"Apples, Sugar, Butter, Cinnamon","Wheat, Dairy"
+Banana Bread,"Bananas, Sugar, Butter, Flour","Wheat, Dairy"
+Vanilla Cupcakes,"Flour, Sugar, Butter, Vanilla extract","Wheat, Dairy"
+Apple Crisp,"Apples, Sugar, Butter, Cinnamon","Wheat, Dairy"
+Pasta Carbonara,"Pasta, Bacon, Egg, Parmesan cheese","Wheat, Dairy"
+Blueberry Pancakes,"Flour, Sugar, Butter, Blueberries","Wheat, Dairy"
+Lemon Bars,"Flour, Sugar, Butter, Lemon juice","Wheat, Dairy"
+Pumpkin Pie,"Pumpkin, Sugar, Butter, Cinnamon, nutmeg","Wheat, Dairy"
+Mixed Berry Pie,"Mixed berries, Sugar, Butter, Flour","Wheat, Dairy"
+Garlic Bread,"Bread, Butter, Garlic","Wheat, Dairy"
+Berry Cobbler,"Mixed berries, Sugar, Butter, Flour","Wheat, Dairy"
+Baked Ziti,"Pasta, Cheese, Tomato sauce","Wheat, Dairy"
+Baked Ziti,"Pasta, Cheese, Tomato sauce","Wheat, Dairy"
+Key Lime Pie,"Lime juice, Sugar, Butter, Graham cracker crust","Wheat, Dairy"
+Lemon Poppy Seed Muffins,"Flour, Sugar, Butter, Lemon zest, poppy seeds","Wheat, Dairy"
+Chicken Quesadilla,"Chicken, Butter, Cheese","Wheat, Dairy"
+Pancake Stack,"Flour, Sugar, Butter, Maple syrup","Wheat, Dairy"
+Strawberry Shortcake,"Strawberries, Sugar, Whipped cream, Shortcake","Wheat, Dairy"
+Berry Crumble,"Mixed berries, Sugar, Butter, Oats, cinnamon","Wheat, Dairy"
+Raspberry Cheesecake,"Cream cheese, Sugar, Butter, Graham cracker crust, raspberries","Wheat, Dairy"
+Blueberry Pancakes,"Flour, Sugar, Butter, Blueberries","Wheat, Dairy"
+Oatmeal Raisin Cookies,"Oats, Brown sugar, Butter, Raisins, cinnamon","Wheat, Dairy"
+Apple Crisp,"Apples, Sugar, Butter, Cinnamon, oats","Wheat, Dairy"
+Chicken Enchiladas,"Chicken, Enchilada sauce, Cheese, tortillas","Wheat, Dairy"
+Caesar Salad Wrap,"Romaine lettuce, Caesar dressing, Parmesan cheese, croutons","Wheat, Dairy"
+Caesar Salad Wrap,"Romaine lettuce, Caesar dressing, Parmesan cheese, croutons","Wheat, Dairy"
+S'mores,"Graham crackers, Marshmallows, Chocolate","Wheat, Dairy"
+Tiramisu,"Ladyfingers, Sugar, Mascarpone cheese, Coffee, cocoa","Wheat, Dairy"
+Cinnamon Rolls,"Dough, Sugar, Butter, Cinnamon, icing","Wheat, Dairy"
+Chicken Caesar Salad,"Chicken, Caesar dressing, Romaine lettuce, croutons","Wheat, Dairy"
+Vegetable Lasagna,"Vegetables, Olive oil, Tomato sauce, cheese","Wheat, Dairy"
+Garlic Bread,"Bread, Butter, Garlic","Wheat, Dairy"
+Chicken Alfredo Pizza,"Pizza dough, Chicken, Alfredo sauce","Wheat, Dairy"
+Caesar Pasta Salad,"Pasta, Caesar dressing, Romaine lettuce, Parmesan cheese","Wheat, Dairy"
+Baked Apple,"Apples, Sugar, Butter, Cinnamon, oats","Wheat, Dairy"
+Apple Pie,"Apples, Sugar, Butter, Cinnamon, pastry","Wheat, Dairy"
+Chicken Parmesan,"Chicken, Olive oil, Tomato sauce, cheese","Wheat, Dairy"
+Pumpkin Pie,"Pumpkin, Sugar, Butter, Pumpkin spice, pastry","Wheat, Dairy"
+Blueberry Muffins,"Flour, Sugar, Butter, Blueberries","Wheat, Dairy"
+Sausage and Pepper Pizza,"Pizza dough, Sausage, bell peppers","Wheat, Dairy"
+Beef Wellington,"Beef, Butter, Mushrooms, puff pastry","Wheat, Dairy"
+Baked Ziti,"Pasta, Tomato sauce, cheese","Wheat, Dairy"
+Lemon Poppy Seed Muffins,"Flour, Sugar, Butter, Lemon zest, poppy seeds","Wheat, Dairy"
+Apple Crisp,"Apples, Sugar, Butter, Cinnamon, oats","Wheat, Dairy"
+Chicken Enchiladas,"Chicken, Enchilada sauce, Cheese, tortillas","Wheat, Dairy"
+Caesar Salad Wrap,"Romaine lettuce, Caesar dressing, Parmesan cheese, croutons","Wheat, Dairy"
+S'mores,"Graham crackers, Marshmallows, Chocolate","Wheat, Dairy"
+Tiramisu,"Ladyfingers, Sugar, Mascarpone cheese, Coffee, cocoa","Wheat, Dairy"
+Cinnamon Rolls,"Dough, Sugar, Butter, Cinnamon, icing","Wheat, Dairy"
+Chicken Caesar Salad,"Chicken, Caesar dressing, Romaine lettuce, croutons","Wheat, Dairy"
+Vegetable Lasagna,"Vegetables, Olive oil, Tomato sauce, cheese","Wheat, Dairy"
+Garlic Bread,"Bread, Butter, Garlic","Wheat, Dairy"
+Chicken Alfredo Pizza,"Pizza dough, Chicken, Alfredo sauce","Wheat, Dairy"
+Caesar Pasta Salad,"Pasta, Caesar dressing, Romaine lettuce, Parmesan cheese","Wheat, Dairy"
+Baked Apple,"Apples, Sugar, Butter, Cinnamon, oats","Wheat, Dairy"
+Apple Pie,"Apples, Sugar, Butter, Cinnamon, pastry","Wheat, Dairy"
+Chicken Parmesan,"Chicken, Olive oil, Tomato sauce, cheese","Wheat, Dairy"
+Pumpkin Pie,"Pumpkin, Sugar, Butter, Pumpkin spice, pastry","Wheat, Dairy"
+Blueberry Muffins,"Flour, Sugar, Butter, Blueberries","Wheat, Dairy"
+Sausage and Pepper Pizza,"Pizza dough, Sausage, bell peppers","Wheat, Dairy"
+Beef Wellington,"Beef, Butter, Mushrooms, puff pastry","Wheat, Dairy"
+Jalebi,"Flour, Sugar, Ghee, Saffron syrup","Wheat, Dairy"
+Butter Naan,"Flour, Butter","Wheat, Dairy"
+Tiramisu,"Ladyfingers, Sugar, Mascarpone cheese, coffee liqueur, Cocoa powder","Wheat, Dairy, Alcohol"
+Chocolate Cake,"Flour, Sugar, Butter, Cocoa powder","Wheat, Dairy, Cocoa"
+Chocolate Chip Pancakes,"Flour, Sugar, Butter, Chocolate chips","Wheat, Dairy, Cocoa"
+Lemon Bars,"Lemon juice, Sugar, Butter, Flour, eggs","Wheat, Dairy, Eggs"
+Lemon Bars,"Lemon juice, Sugar, Butter, Flour, eggs","Wheat, Dairy, Eggs"
+Pecan Pie,"Pecans, Sugar, Butter, Corn syrup","Wheat, Dairy, Nuts"
+Zucchini Bread,"Zucchini, Sugar, Butter, Cinnamon, nuts","Wheat, Dairy, Nuts"
+Banana Bread,"Bananas, Sugar, Butter, Cinnamon, nuts","Wheat, Dairy, Nuts"
+Hawaiian Pizza,"Pizza dough, Pineapple, ham","Wheat, Pork, Dairy"
+Peanut Butter Sandwich,"Peanut Butter, Bread, Honey","Peanuts, Wheat"
+Caesar Salad,"Lettuce, Croutons, Parmesan Cheese, Caesar Dressing","Dairy, Wheat, Egg, Fish"
+Spaghetti Bolognese,"Spaghetti, Ground Beef, Tomato Sauce, Garlic, Olive Oil",Wheat
+Mango Smoothie,"Mango, Yogurt, Honey, Ice",Dairy
+Granola Bar,"Oats, Almonds, Honey, Chocolate Chips","Almonds, Oats"
+Chicken Curry,"Chicken, Coconut Milk, Turmeric, Garlic, Ginger",None
+Vegetable Stir Fry,"Carrots, Bell Peppers, Broccoli, Soy Sauce",Soy
+Egg Fried Rice,"Rice, Eggs, Green Onions, Soy Sauce","Egg, Soy"
+Strawberry Cheesecake,"Cream Cheese, Strawberries, Graham Crackers, Sugar","Dairy, Wheat"
+Mocha Latte,"Coffee, Milk, Cocoa Powder, Sugar",Dairy
