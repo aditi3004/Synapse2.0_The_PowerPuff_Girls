@@ -90,9 +90,6 @@ The application will open in your browser, allowing you to upload food images, i
 - **Integration with Delivery Apps:** Sync with apps like **Swiggy**, **Zomato**, and grocery apps like **Blinkit** or **Zepto** for real-time allergen-free food recommendations based on restaurant menus and grocery inventories.
 - **Expanded Database:** The system can be trained with more data to recognize a wider variety of food items and allergens.
 
-## **Contributors**
-- [Your Name or Team Name]
-- GitHub: [Link to your repository]
 
 ## **License**
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
